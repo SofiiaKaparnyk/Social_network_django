@@ -1,0 +1,19 @@
+.env
+.coverage*
+.pytest_cache/
+
+# Other
+venv/
+*.sqlite3
+*.db
+*.mo
+.cache/
+media/
+*.log
+*.log.*
+.idea
+
+bookmarks/__pycache__
+account/__pycache__
+account/migrations/__pycache__/
+account/static/.DS_Store
