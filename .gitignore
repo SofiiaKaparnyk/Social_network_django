@@ -13,7 +13,14 @@ media/
 *.log.*
 .idea
 
-bookmarks/__pycache__
-account/__pycache__
+bookmarks/__pycache__/
+account/__pycache__/
+images/__pycache__/
+actions/__pycache__/
+bookmarks/migrations/__pycache__/
+bookmarks/common/__pycache__/
 account/migrations/__pycache__/
+images/migrations/__pycache__/
+actions/migrations/__pycache__/
 account/static/.DS_Store
+secret/
